@@ -1,3 +1,28 @@
-.whitehouse{
-	
+.whitehouse_logo{
+	font-size:37px;
+	font-family:"Arial",sans-serif;
+	text-align: center;
+	color:white;
+	width:360px;
+	height:102px;
+	background-color:#15377E;
+	padding-top: 24px;
+	float:left;
+	text-decoration: none;
+	position:absolute;
+	top:75px;
+	left:350px;
+}
+.whitehouse_logo:hover{
+	background-color:#02143A;
+	color:#4462A3;
+}
+.whitehouse_logo:active{
+	background-color:#FB0012;
+	color:white;
+}
+
+.container{
+	width:800px;
+	height:1200px;
 }
