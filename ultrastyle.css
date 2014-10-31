@@ -22,7 +22,35 @@
 	color:white;
 }
 
+.menu_A{
+	width:122px;
+	height:122px;
+	background-color:#00CAA2;
+	color:white;
+	position:absolute;
+	left:122;
+	top:122;
+}
+.menu_A:hover{
+	background-position: 122px 0;
+	background-color:#00E5B8;
+}
+.menu_B{
+	width:122px;
+	height:122px;
+	background-color:#16E400;
+	color:white;
+	position:absolute;
+	left:244;
+	top:122;
+}
+.menu_B:hover{
+	background-position: 122px 0;
+	background-color: #17F200;
+}
+
 .container{
 	width:800px;
 	height:1200px;
+	position: relative;
 }
