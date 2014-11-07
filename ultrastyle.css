@@ -106,7 +106,19 @@
 		background-color:#AC0037;
 	}	
 
-
+.menu_G{
+	width:122px;
+	height:122px;
+	background-color:#680021;
+	color:white;
+	position:absolute;
+	left:732;
+	top:122;
+}
+	.menu_G:hover{
+		background-position: 122px 122px;
+		background-color:#AC0037;
+	}
 
 .container{
 	width:800px;
