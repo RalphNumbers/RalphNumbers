@@ -13,44 +13,113 @@
 	top:75px;
 	left:350px;
 }
-.whitehouse_logo:hover{
-	background-color:#02143A;
-	color:#4462A3;
-}
-.whitehouse_logo:active{
-	background-color:#FB0012;
-	color:white;
-}
+	.whitehouse_logo:hover{
+		background-color:#02143A;
+		color:#4462A3;
+	}
+	.whitehouse_logo:active{
+		background-color:#FB0012;
+		color:white;
+	}
 
 .menu_A{
 	width:122px;
 	height:122px;
-	background-color:#00CAA2;
+	background-color:#060116;
 	color:white;
 	position:absolute;
 	left:122;
 	top:122;
 }
-.menu_A:hover{
-	background-position: 122px 0;
-	background-color:#00E5B8;
-}
+	.menu_A:hover{
+		background-position: 122px 0;
+		background-color:#12033C;
+		background-repeat: no-repeat;
+	}
 .menu_B{
 	width:122px;
 	height:122px;
-	background-color:#16E400;
+	background-color:#001E19;
 	color:white;
 	position:absolute;
 	left:244;
 	top:122;
 }
-.menu_B:hover{
-	background-position: 122px 0;
-	background-color: #17F200;
+	.menu_B:hover{
+		background-position: 122px 0;
+		background-color: #044C40;
+	}
+
+.menu_C{
+	width:122px;
+	height:122px;
+	background-color:#77006D;
+	color:white;
+	position:absolute;
+	left:366;
+	top:122;
 }
+	.menu_C:hover{
+		background-position: 122px 0px;
+		background-color:#680068;
+	}
+
+.menu_D{
+	width:122px;
+	height:122px;
+	background-color:#01364A;
+	color:white;
+	position:absolute;
+	left:488;
+	top:122;
+}
+	.menu_D:hover{
+		background-position: 122px 0px;
+		background-color:#045979;
+	}
+
+.menu_E{
+	width:122px;
+	height:122px;
+	background-color:#01364A;
+	color:white;
+	position:absolute;
+	left:610;
+	top:122;
+}
+	.menu_E:hover{
+		background-position: 122px 0px;
+		background-color:#AC0037;
+	}
+
+.menu_F{
+	width:122px;
+	height:122px;
+	background-color:#680021;
+	color:white;
+	position:absolute;
+	left:610;
+	top:122;
+}
+	.menu_F:hover{
+		background-position: 122px 0px;
+		background-color:#AC0037;
+	}	
+
+
 
 .container{
 	width:800px;
 	height:1200px;
 	position: relative;
+	font-size:37px;
+	font-family:"Arial",sans-serif;
+	text-align: center;
+	color:white;
+	background-color:#15377E;
+	padding-top: 24px;
+	float:left;
+	text-decoration: none;
+	position:absolute;
+	background-repeat: no-repeat;
 }
